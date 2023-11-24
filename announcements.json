@@ -1,9 +1,8 @@
 [
   {
     "id": "follow_me",
-
     "title": {
-      "en": "Follow me on Twitter"
+      "en": "Follow me on Twitter",
       "es": "Sígueme en Twitter",
       "ar": "تابعني على تويتر",
       "tr": "Twitter'da beni takip edin",
@@ -14,17 +13,16 @@
       "es": "Sígueme en Twitter, donde publico información sobre las nuevas funciones y actualizaciones de School Planner.",
       "ar": "قم بمتابعتي على تويتر حيث أقوم بنشر أخبار عن آخر الميزات والتحديثات في تطبيق مخطط المدرسة.",
       "tr": "School Planner'a gelen yeni özellikler ve güncellemeler hakkında bilgi yayınladığım Twitter'da beni takip edin.",
-      "fr": "Suivez-moi sur Twitter où je publie des informations sur les nouvelles fonctionnalités et les mises à jour à venir pour School Planner.",
+      "fr": "Suivez-moi sur Twitter où je publie des informations sur les nouvelles fonctionnalités et les mises à jour à venir pour School Planner."
     },
     "action": {
       "en": "Follow",
       "es": "Seguir",
       "ar": "متابعة",
       "tr": "Takip",
-      "fr": "Suivre",
+      "fr": "Suivre"
     },
     "dismiss": null,
-
     "imageUrl": "https://raw.githubusercontent.com/swazer-lab/schoolplanner/main/announcement_images/follow_me.png",
     "actionUrl": "https://twitter.com/heysem_k",
     "endDate": null,
@@ -33,30 +31,28 @@
   },
   {
     "id": "help_translating",
-
     "title": {
-      "en": "Help Translating"
+      "en": "Help Translating",
       "es": "Ayuda para traducir",
       "ar": "ساهم بترجمة التطبيق",
       "tr": "Çeviri Yardımı",
-      "fr": "Aide à la traduction",
+      "fr": "Aide à la traduction"
     },
     "message": {
-      "en": "Would you like to see School Planner in your language?\nPlease help translate the app or review and correct current translations."
+      "en": "Would you like to see School Planner in your language?\nPlease help translate the app or review and correct current translations.",
       "es": "¿Le gustaría ver School Planner en su idioma?\nAyude a traducir la aplicación o revise y corrija las traducciones actuales.",
       "ar": "هل ترغب برؤية مخطط المدرسة بلغتك؟\nالرجاء المساعدة في ترجمة التطبيق أو مراجعة وتصحيح الترجمات الحالية.",
       "tr": "School Planner'ı kendi dilinizde görmek ister misiniz?\nLütfen uygulamanın çevirisine yardımcı olun veya mevcut çevirileri gözden geçirip düzeltin.",
-      "fr": "Aimeriez-vous voir School Planner dans votre langue?\nS'il vous plaît aider à traduire l'application ou revoir et corriger les traductions actuelles.",
+      "fr": "Aimeriez-vous voir School Planner dans votre langue?\nS'il vous plaît aider à traduire l'application ou revoir et corriger les traductions actuelles."
     },
     "action": {
       "en": "Participate",
       "es": "Unirse",
       "ar": "حسناً",
       "tr": "Katılın",
-      "fr": "Rejoindre",
+      "fr": "Rejoindre"
     },
     "dismiss": null,
-
     "imageUrl": "https://raw.githubusercontent.com/swazer-lab/schoolplanner/main/announcement_images/translate_app.png",
     "actionUrl": "https://localazy.com/p/school-planner",
     "endDate": null,
@@ -65,30 +61,28 @@
   },
   {
     "id": "web_app",
-
     "title": {
-      "en": "School Planner for Web"
+      "en": "School Planner for Web",
       "es": "Agenda Escolar para web",
       "ar": "مخطط الدراسة للويب",
       "tr": "Web için Okul Planlayıcısı",
-      "fr": "School Planner pour le Web",
+      "fr": "School Planner pour le Web"
     },
     "message": {
-      "en": "Introducing School planner for web. You can now view and update your schedule on your computer with our new web app."
+      "en": "Introducing School planner for web. You can now view and update your schedule on your computer with our new web app.",
       "es": "Presentamos Agenda Escolar para web. Ahora puede ver y actualizar su horario en su computadora con nuestra nueva aplicación web.",
       "ar": "نقدم لك مخطط المدرسة للويب. يمكنك الآن عرض جدولك الزمني وتحديثه على جهاز الكمبيوتر الخاص بك من خلال تطبيق الويب الجديد الخاص بنا.",
       "tr": "Web için Okul planlayıcısı ile tanışın. Artık yeni web uygulamamızla programınızı bilgisayarınızda görüntüleyebilir ve güncelleyebilirsiniz.",
-      "fr": "Présentation de School Planner pour le web. Vous pouvez maintenant consulter et mettre à jour votre emploi du temps sur votre ordinateur grâce à notre nouvelle application Web.",
+      "fr": "Présentation de School Planner pour le web. Vous pouvez maintenant consulter et mettre à jour votre emploi du temps sur votre ordinateur grâce à notre nouvelle application Web."
     },
     "action": {
       "en": "Try It",
       "es": "Intentalo",
       "ar": "جربه الآن",
       "tr": "Deneyin",
-      "fr": "Essayez-le",
+      "fr": "Essayez-le"
     },
     "dismiss": null,
-
     "imageUrl": "https://raw.githubusercontent.com/swazer-lab/schoolplanner/main/announcement_images/web_app.png",
     "actionUrl": "https://app.schoolplanner.me",
     "endDate": null,
