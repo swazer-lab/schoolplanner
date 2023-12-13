@@ -32,7 +32,7 @@
       "de": "Folgen"
     },
     "dismiss": null,
-    "imageUrl": "https://raw.githubusercontent.com/swazer-lab/schoolplanner/main/announcement_images/follow_me.png",
+    "imageUrl": "https://raw.githubusercontent.com/swazer-lab/schoolplanner/main/announcement_images/follow_me.webp",
     "actionUrl": "https://twitter.com/heysem_k",
     "endDate": null,
     "runTimes": 54,
@@ -71,7 +71,7 @@
       "de": "Teilnehmen"
     },
     "dismiss": null,
-    "imageUrl": "https://raw.githubusercontent.com/swazer-lab/schoolplanner/main/announcement_images/translate_app.png",
+    "imageUrl": "https://raw.githubusercontent.com/swazer-lab/schoolplanner/main/announcement_images/translate_app.webp",
     "actionUrl": "https://localazy.com/p/school-planner",
     "endDate": null,
     "runTimes": 36,
@@ -110,7 +110,7 @@
       "de": "Versuchen Sie es"
     },
     "dismiss": null,
-    "imageUrl": "https://raw.githubusercontent.com/swazer-lab/schoolplanner/main/announcement_images/web_app.png",
+    "imageUrl": "https://raw.githubusercontent.com/swazer-lab/schoolplanner/main/announcement_images/web_app.webp",
     "actionUrl": "https://app.schoolplanner.me",
     "endDate": null,
     "runTimes": 14,
