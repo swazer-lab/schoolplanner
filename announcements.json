@@ -154,5 +154,44 @@
     "endDate": null,
     "runTimes": 14,
     "versionCode": null
+  },
+  {
+    "id": "create_account",
+    "title": {
+      "en": "Create an Account",
+      "es": "Crea una Cuenta",
+      "ar": "إنشاء حساب",
+      "tr": "Hesap Oluştur",
+      "fr": "Créer un Compte",
+      "ru": "Создать Аккаунт",
+      "it": "Crea un Account",
+      "de": "Konto Erstellen"
+    },
+    "message": {
+      "en": "If you haven't already, consider creating a new account. This not only helps in recovering your data in case of a phone upgrade or app data deletion but also allows access on other devices and the web. And no need to worry about your current data; when you create an account, everything you have will automatically move to your new account.",
+      "es": "Si aún no lo has hecho, considera crear una nueva cuenta. Esto no solo ayuda a recuperar tus datos en caso de una actualización de teléfono o eliminación de datos de la aplicación, sino que también permite el acceso en otros dispositivos y en la web. Y no te preocupes por tus datos actuales; cuando crees una cuenta, todo lo que tienes se moverá automáticamente a tu nueva cuenta.",
+      "ar": "إذا لم تكن قد فعلت ذلك بالفعل، فكر في إنشاء حساب جديد. هذا لا يساعد فقط في استعادة بياناتك في حالة ترقية الهاتف أو حذف بيانات التطبيق، ولكن يسمح أيضًا بالوصول على أجهزة أخرى وعلى الويب. ولا داعي للقلق بشأن بياناتك الحالية؛ عند إنشاء حساب، سيتم نقل كل ما لديك تلقائيًا إلى حسابك الجديد.",
+      "tr": "Henüz yapmadıysanız, yeni bir hesap oluşturmayı düşünün. Bu, telefonunuzu yükseltmeniz veya uygulama verilerini silmeniz durumunda verilerinizi kurtarmanıza yardımcı olmanın yanı sıra, diğer cihazlarda ve web üzerinde erişim sağlar. Mevcut verileriniz konusunda endişelenmenize gerek yok; bir hesap oluşturduğunuzda, sahip olduğunuz her şey otomatik olarak yeni hesabınıza taşınacaktır.",
+      "fr": "Si vous ne l'avez pas déjà fait, envisagez de créer un nouveau compte. Cela aide non seulement à récupérer vos données en cas de mise à niveau de téléphone ou de suppression de données d'application, mais permet également un accès sur d'autres appareils et sur le web. Et pas besoin de vous inquiéter de vos données actuelles ; lorsque vous créez un compte, tout ce que vous avez sera automatiquement transféré vers votre nouveau compte.",
+      "ru": "Если вы еще этого не сделали, подумайте о создании нового аккаунта. Это не только поможет восстановить ваши данные в случае обновления телефона или удаления данных приложения, но и позволит получить доступ к ним на других устройствах и в Интернете. И не беспокойтесь о своих текущих данных; когда вы создаете аккаунт, все, что у вас есть, автоматически перенесется в ваш новый аккаунт.",
+      "it": "Se non l'hai già fatto, prendi in considerazione la creazione di un nuovo account. Questo non solo aiuta nel recupero dei tuoi dati in caso di aggiornamento del telefono o cancellazione dei dati dell'app, ma consente anche l'accesso su altri dispositivi e sul web. E non devi preoccuparti dei tuoi dati attuali; quando crei un account, tutto ciò che hai si sposterà automaticamente sul tuo nuovo account.",
+      "de": "Wenn Sie es noch nicht getan haben, erwägen Sie die Erstellung eines neuen Kontos. Dies hilft nicht nur dabei, Ihre Daten im Falle eines Telefon-Upgrades oder einer App-Datenlöschung wiederherzustellen, sondern ermöglicht auch den Zugriff auf anderen Geräten und im Web. Und keine Sorge um Ihre aktuellen Daten; wenn Sie ein Konto erstellen, wird alles, was Sie haben, automatisch auf Ihr neues Konto übertragen."
+    },
+    "action": {
+      "en": "Register",
+      "es": "Registrarse",
+      "ar": "تسجيل",
+      "tr": "Kaydol",
+      "fr": "S'inscrire",
+      "ru": "Регистрация",
+      "it": "Registrati",
+      "de": "Registrieren"
+    },
+    "dismiss": null,
+    "imageUrl": "https://raw.githubusercontent.com/swazer-lab/schoolplanner/main/announcement_images/create_account.webp",
+    "actionUrl": null,
+    "endDate": null,
+    "runTimes": 14,
+    "versionCode": null
   }
 ]
