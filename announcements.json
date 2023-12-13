@@ -112,9 +112,9 @@
     },
     "imageUrl": "https://raw.githubusercontent.com/swazer-lab/schoolplanner/main/announcement_images/new_avatars.webp",
     "actionUrl": null,
-    "endDate": 19682,
+    "endDate": 1698105600,
     "runTimes": 72,
-    "versionCode": null
+    "versionCode": 140
   },
   {
     "id": "web_app",
@@ -142,7 +142,7 @@
       "en": "Try It",
       "es": "Pruébalo",
       "ar": "جربه الآن",
-      "tr": "Deneyin",
+      "tr": "Dene",
       "fr": "Essayez-le",
       "ru": "Попробуйте",
       "it": "Provalo",
@@ -187,11 +187,42 @@
       "it": "Registrati",
       "de": "Registrieren"
     },
+    "actionCustom": "create_account",
     "dismiss": null,
     "imageUrl": "https://raw.githubusercontent.com/swazer-lab/schoolplanner/main/announcement_images/create_account.webp",
     "actionUrl": null,
     "endDate": null,
     "runTimes": 14,
     "versionCode": null
+  },
+  {
+    "id": "attendance",
+    "title": {
+      "en": "Attendance Feature",
+      "es": "Función de Asistencia",
+      "ar": "ميزة الحضور",
+      "tr": "Katılım Özelliği",
+      "fr": "Fonction de Présence",
+      "ru": "Функция Посещаемости",
+      "it": "Funzione di Presenza",
+      "de": "Anwesenheitsfunktion"
+    },
+    "message": {
+      "en": "Now you can track your attendance in school. Just mark a day or a class as \"Absent\" or \"Late\" and the app will keep track on your behalf. You can also set limits for allowed absence.",
+      "es": "Ahora puedes hacer un seguimiento de tu asistencia en la escuela. Simplemente marca un día o una clase como \"Ausente\" o \"Tarde\" y la aplicación llevará el registro en tu nombre. También puedes establecer límites para las ausencias permitidas.",
+      "ar": "يمكنك الآن تتبع حضورك في المدرسة. فقط علم يومًا أو فصلًا دراسيًا على أنه \"غائب\" أو \"متأخر\" وسيتابع التطبيق الحضور نيابةً عنك. يمكنك أيضًا تحديد حدود للغياب المسموح به.",
+      "tr": "Artık okuldaki katılımınızı takip edebilirsiniz. Sadece bir günü veya dersi \"Devamsız\" veya \"Geç\" olarak işaretleyin ve uygulama sizin adınıza takip edecektir. İzin verilen devamsızlık için sınırlar da belirleyebilirsiniz.",
+      "fr": "Vous pouvez désormais suivre votre présence à l'école. Il suffit de marquer un jour ou un cours comme \"Absent\" ou \"En retard\" et l'application tiendra le compte en votre nom. Vous pouvez également définir des limites pour l'absence autorisée.",
+      "ru": "Теперь вы можете отслеживать свою посещаемость в школе. Просто отметьте день или урок как \"Отсутствующий\" или \"Опоздавший\", и приложение будет вести учет за вас. Вы также можете установить пределы для разрешенного отсутствия.",
+      "it": "Ora puoi monitorare la tua presenza a scuola. Basta segnare un giorno o una lezione come \"Assente\" o \"In ritardo\" e l'app terrà traccia per tuo conto. Puoi anche impostare limiti per l'assenza consentita.",
+      "de": "Jetzt können Sie Ihre Anwesenheit in der Schule verfolgen. Markieren Sie einfach einen Tag oder eine Klasse als \"Abwesend\" oder \"Verspätet\" und die App wird für Sie Buch führen. Sie können auch Grenzen für erlaubte Abwesenheiten festlegen."
+    },
+    "action": null,
+    "dismiss": null,
+    "imageUrl": "https://raw.githubusercontent.com/swazer-lab/schoolplanner/main/announcement_images/attendance.webp",
+    "actionUrl": null,
+    "endDate": 1705104000,
+    "runTimes": 54,
+    "versionCode": 152
   }
 ]
