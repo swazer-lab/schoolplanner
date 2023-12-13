@@ -9,7 +9,13 @@
       "fr": "Suis moi sur Twitter",
       "ru": "Подпишитесь на меня в Twitter",
       "it": "Seguimi su Twitter",
-      "de": "Folge mir auf Twitter"
+      "de": "Folge mir auf Twitter",
+      "pt": "Siga-me no Twitter",
+      "hr": "Pratite me na Twitteru",
+      "nl": "Volg me op Twitter",
+      "uk": "Слідкуйте за мною у Twitter",
+      "ms": "Ikuti saya di Twitter",
+      "vi": "Theo dõi tôi trên Twitter"
     },
     "message": {
       "en": "Follow me on Twitter where I post information regarding new features and updates coming to School Planner.",
@@ -19,7 +25,13 @@
       "fr": "Suivez-moi sur Twitter où je publie des informations sur les nouvelles fonctionnalités et les mises à jour à venir pour School Planner.",
       "ru": "Подписывайтесь на меня в Twitter, где я публикую информацию о новых функциях и обновлениях для School Planner.",
       "it": "Seguimi su Twitter dove pubblico informazioni sulle nuove funzionalità e aggiornamenti in arrivo su School Planner.",
-      "de": "Folgen Sie mir auf Twitter, wo ich Informationen über neue Funktionen und Updates für den School Planner poste."
+      "de": "Folgen Sie mir auf Twitter, wo ich Informationen über neue Funktionen und Updates für den School Planner poste.",
+      "pt": "Siga-me no Twitter, onde posto informações sobre novos recursos e atualizações do School Planner.",
+      "hr": "Pratite me na Twitteru gdje objavljujem informacije o novim funkcijama i ažuriranjima za School Planner.",
+      "nl": "Volg me op Twitter waar ik informatie post over nieuwe functies en updates voor School Planner.",
+      "uk": "Слідкуйте за мною у Twitter, де я публікую інформацію про нові функції та оновлення School Planner.",
+      "ms": "Ikuti saya di Twitter di mana saya memposting informasi mengenai fitur baru dan pembaruan yang akan datang ke School Planner.",
+      "vi": "Theo dõi tôi trên Twitter nơi tôi đăng thông tin về các tính năng mới và cập nhật sắp tới của School Planner."
     },
     "action": {
       "en": "Follow",
@@ -29,7 +41,13 @@
       "fr": "Suivre",
       "ru": "Подписаться",
       "it": "Segui",
-      "de": "Folgen"
+      "de": "Folgen",
+      "pt": "Seguir",
+      "hr": "Prati",
+      "nl": "Volgen",
+      "uk": "Слідкувати",
+      "ms": "Ikuti",
+      "vi": "Theo dõi"
     },
     "dismiss": null,
     "imageUrl": "https://raw.githubusercontent.com/swazer-lab/schoolplanner/main/announcement_images/follow_me.webp",
@@ -48,7 +66,13 @@
       "fr": "Aide à la traduction",
       "ru": "Помощь в переводе",
       "it": "Aiuto nella traduzione",
-      "de": "Hilfe beim Übersetzen"
+      "de": "Hilfe beim Übersetzen",
+      "pt": "Ajuda na Tradução",
+      "hr": "Pomoć u Prijevodu",
+      "nl": "Hulp bij Vertalen",
+      "uk": "Допоможіть з Перекладом",
+      "ms": "Bantu Menerjemahkan",
+      "vi": "Hỗ trợ Dịch thuật"
     },
     "message": {
       "en": "Would you like to see School Planner in your language?\nPlease help translate the app or review and correct current translations.",
@@ -58,7 +82,13 @@
       "fr": "Aimeriez-vous voir School Planner dans votre langue?\nS'il vous plaît aider à traduire l'application ou revoir et corriger les traductions actuelles.",
       "ru": "Хотели бы вы видеть School Planner на вашем языке?\nПожалуйста, помогите перевести приложение или проверьте и исправьте текущие переводы.",
       "it": "Ti piacerebbe vedere School Planner nella tua lingua?\nAiuta a tradurre l'app o a rivedere e correggere le traduzioni attuali.",
-      "de": "Möchten Sie den School Planner in Ihrer Sprache sehen?\nBitte helfen Sie bei der Übersetzung der App oder überprüfen und korrigieren Sie aktuelle Übersetzungen."
+      "de": "Möchten Sie den School Planner in Ihrer Sprache sehen?\nBitte helfen Sie bei der Übersetzung der App oder überprüfen und korrigieren Sie aktuelle Übersetzungen.",
+      "pt": "Gostaria de ver o School Planner em seu idioma? Por favor, ajude a traduzir o aplicativo ou a revisar e corrigir as traduções atuais.",
+      "hr": "Želite li vidjeti School Planner na svom jeziku? Molimo vas da pomognete u prijevodu aplikacije ili u pregledu i ispravljanju trenutnih prijevoda.",
+      "nl": "Wilt u School Planner in uw taal zien? Help alstublieft met het vertalen van de app of het controleren en corrigeren van huidige vertalingen.",
+      "uk": "Хочете бачити School Planner вашою мовою? Будь ласка, допоможіть перекласти додаток або перегляньте та виправте поточні переклади.",
+      "ms": "Ingin melihat School Planner dalam bahasa Anda? Sila bantu menterjemahkan aplikasi atau menyemak dan membetulkan terjemahan semasa.",
+      "vi": "Bạn có muốn thấy School Planner bằng ngôn ngữ của mình không? Vui lòng giúp dịch ứng dụng hoặc xem xét và sửa chữa các bản dịch hiện tại."
     },
     "action": {
       "en": "Participate",
@@ -68,7 +98,13 @@
       "fr": "Rejoindre",
       "ru": "Участвовать",
       "it": "Partecipa",
-      "de": "Teilnehmen"
+      "de": "Teilnehmen",
+      "pt": "Participar",
+      "hr": "Sudjelujte",
+      "nl": "Deelnemen",
+      "uk": "Брати участь",
+      "ms": "Sertai",
+      "vi": "Tham gia"
     },
     "dismiss": null,
     "imageUrl": "https://raw.githubusercontent.com/swazer-lab/schoolplanner/main/announcement_images/translate_app.webp",
@@ -87,7 +123,13 @@
       "fr": "Introduction des Avatars",
       "ru": "Представляем Аватары",
       "it": "Introduzione degli Avatar",
-      "de": "Vorstellung von Avataren"
+      "de": "Vorstellung von Avataren",
+      "pt": "Apresentando Avatares",
+      "hr": "Predstavljanje Avatara",
+      "nl": "Introductie van Avatars",
+      "uk": "Знайомство з Аватарами",
+      "ms": "Memperkenalkan Avatar",
+      "vi": "Giới thiệu Avatars"
     },
     "message": {
       "en": "Explore the new awesome avatar collection! Choose a unique avatar for yourself or for your teachers. Try it now by going to your profile or teachers screen.",
@@ -97,7 +139,13 @@
       "fr": "Découvrez la nouvelle collection d'avatars géniaux! Choisissez un avatar unique pour vous ou pour vos professeurs. Essayez-le maintenant en allant sur votre profil ou sur l'écran des enseignants.",
       "ru": "Исследуйте новую потрясающую коллекцию аватаров! Выберите уникальный аватар для себя или для ваших учителей. Попробуйте сейчас, перейдя в свой профиль или на экран учителей.",
       "it": "Scopri la nuova fantastica collezione di avatar! Scegli un avatar unico per te o per i tuoi insegnanti. Provalo ora andando sul tuo profilo o sulla schermata degli insegnanti.",
-      "de": "Entdecken Sie die neue beeindruckende Avatar-Sammlung! Wählen Sie einen einzigartigen Avatar für sich selbst oder für Ihre Lehrer aus. Probieren Sie es jetzt aus, indem Sie zu Ihrem Profil oder zum Lehrerbildschirm gehen."
+      "de": "Entdecken Sie die neue beeindruckende Avatar-Sammlung! Wählen Sie einen einzigartigen Avatar für sich selbst oder für Ihre Lehrer aus. Probieren Sie es jetzt aus, indem Sie zu Ihrem Profil oder zum Lehrerbildschirm gehen.",
+      "pt": "Explore a nova incrível coleção de avatares! Escolha um avatar único para você ou para seus professores. Experimente agora, indo para o seu perfil ou tela de professores.",
+      "hr": "Istražite novu izvrsnu kolekciju avatara! Odaberite jedinstveni avatar za sebe ili za svoje učitelje. Isprobajte sada odlaskom na svoj profil ili zaslon učitelja.",
+      "nl": "Verken de nieuwe geweldige avatarcollectie! Kies een unieke avatar voor jezelf of voor je leraren. Probeer het nu door naar je profiel of lerarenscherm te gaan.",
+      "uk": "Вивчіть нову чудову колекцію аватарів! Виберіть унікальний аватар для себе або для своїх вчителів. Спробуйте зараз, перейшовши до свого профілю або екрану вчителів.",
+      "ms": "Jelajahi koleksi avatar baru yang mengagumkan! Pilih avatar unik untuk diri sendiri atau guru anda. Cubalah sekarang dengan pergi ke profil atau skrin guru anda.",
+      "vi": "Khám phá bộ sưu tập avatar mới tuyệt vời! Chọn một avatar độc đáo cho bản thân hoặc cho giáo viên của bạn. Hãy thử ngay bằng cách đi đến hồ sơ hoặc màn hình giáo viên của bạn."
     },
     "action": null,
     "dismiss": {
@@ -108,7 +156,13 @@
       "fr": "Compris",
       "ru": "Понял",
       "it": "Capito",
-      "de": "Verstanden"
+      "de": "Verstanden",
+      "pt": "Entendi",
+      "hr": "Razumijem",
+      "nl": "Begrepen",
+      "uk": "Зрозуміло",
+      "ms": "Faham",
+      "vi": "Đã hiểu"
     },
     "imageUrl": "https://raw.githubusercontent.com/swazer-lab/schoolplanner/main/announcement_images/new_avatars.webp",
     "actionUrl": null,
@@ -126,7 +180,13 @@
       "fr": "School Planner pour le Web",
       "ru": "School Planner для Веба",
       "it": "School Planner per il Web",
-      "de": "School Planner für das Web"
+      "de": "School Planner für das Web",
+      "pt": "School Planner para Web",
+      "hr": "School Planner za Web",
+      "nl": "School Planner voor Web",
+      "uk": "School Planner для Вебу",
+      "ms": "School Planner untuk Web",
+      "vi": "School Planner cho Web"
     },
     "message": {
       "en": "Introducing School planner for web. You can now view and update your schedule on your computer with our new web app.",
@@ -136,7 +196,13 @@
       "fr": "Introduction de School Planner pour le web. Vous pouvez désormais voir et mettre à jour votre emploi du temps sur votre ordinateur avec notre nouvelle application web.",
       "ru": "Представляем School Planner для веба. Теперь вы можете просматривать и обновлять свое расписание на компьютере с помощью нашего нового веб-приложения.",
       "it": "Introduciamo School Planner per il web. Ora puoi visualizzare e aggiornare il tuo orario sul computer con la nostra nuova app web.",
-      "de": "Wir stellen School Planner für das Web vor. Sie können jetzt Ihren Zeitplan auf Ihrem Computer mit unserer neuen Web-App anzeigen und aktualisieren."
+      "de": "Wir stellen School Planner für das Web vor. Sie können jetzt Ihren Zeitplan auf Ihrem Computer mit unserer neuen Web-App anzeigen und aktualisieren.",
+      "pt": "Apresentando o School Planner para web. Agora você pode ver e atualizar seu cronograma no computador com nosso novo aplicativo web.",
+      "hr": "Predstavljamo School Planner za web. Sada možete pregledavati i ažurirati svoj raspored na računalu s našom novom web aplikacijom.",
+      "nl": "Introductie van School Planner voor web. U kunt nu uw schema bekijken en bijwerken op uw computer met onze nieuwe webapp.",
+      "uk": "Представляємо School Planner для вебу. Тепер ви можете переглядати та оновлювати свій розклад на комп'ютері за допомогою нашого нового веб-додатка.",
+      "ms": "Memperkenalkan School Planner untuk web. Sekarang anda boleh melihat dan mengemas kini jadual anda di komputer dengan aplikasi web baru kami.",
+      "vi": "Giới thiệu School Planner cho web. Bây giờ bạn có thể xem và cập nhật lịch trình của mình trên máy tính với ứng dụng web mới của chúng tôi."
     },
     "action": {
       "en": "Try It",
@@ -146,7 +212,13 @@
       "fr": "Essayez-le",
       "ru": "Попробуйте",
       "it": "Provalo",
-      "de": "Versuchen Sie es"
+      "de": "Versuchen Sie es",
+      "pt": "Experimente",
+      "hr": "Isprobajte",
+      "nl": "Probeer Het",
+      "uk": "Спробуйте",
+      "ms": "Cubalah",
+      "vi": "Thử nghiệm"
     },
     "dismiss": null,
     "imageUrl": "https://raw.githubusercontent.com/swazer-lab/schoolplanner/main/announcement_images/web_app.webp",
@@ -165,7 +237,13 @@
       "fr": "Créer un Compte",
       "ru": "Создать Аккаунт",
       "it": "Crea un Account",
-      "de": "Konto Erstellen"
+      "de": "Konto Erstellen",
+      "pt": "Criar uma Conta",
+      "hr": "Stvorite Račun",
+      "nl": "Maak een Account aan",
+      "uk": "Створити Обліковий Запис",
+      "ms": "Buat Akaun",
+      "vi": "Tạo Tài khoản"
     },
     "message": {
       "en": "If you haven't already, consider creating a new account. This not only helps in recovering your data in case of a phone upgrade or app data deletion but also allows access on other devices and the web. And no need to worry about your current data; when you create an account, everything you have will automatically move to your new account.",
@@ -175,7 +253,13 @@
       "fr": "Si vous ne l'avez pas déjà fait, envisagez de créer un nouveau compte. Cela aide non seulement à récupérer vos données en cas de mise à niveau de téléphone ou de suppression de données d'application, mais permet également un accès sur d'autres appareils et sur le web. Et pas besoin de vous inquiéter de vos données actuelles ; lorsque vous créez un compte, tout ce que vous avez sera automatiquement transféré vers votre nouveau compte.",
       "ru": "Если вы еще этого не сделали, подумайте о создании нового аккаунта. Это не только поможет восстановить ваши данные в случае обновления телефона или удаления данных приложения, но и позволит получить доступ к ним на других устройствах и в Интернете. И не беспокойтесь о своих текущих данных; когда вы создаете аккаунт, все, что у вас есть, автоматически перенесется в ваш новый аккаунт.",
       "it": "Se non l'hai già fatto, prendi in considerazione la creazione di un nuovo account. Questo non solo aiuta nel recupero dei tuoi dati in caso di aggiornamento del telefono o cancellazione dei dati dell'app, ma consente anche l'accesso su altri dispositivi e sul web. E non devi preoccuparti dei tuoi dati attuali; quando crei un account, tutto ciò che hai si sposterà automaticamente sul tuo nuovo account.",
-      "de": "Wenn Sie es noch nicht getan haben, erwägen Sie die Erstellung eines neuen Kontos. Dies hilft nicht nur dabei, Ihre Daten im Falle eines Telefon-Upgrades oder einer App-Datenlöschung wiederherzustellen, sondern ermöglicht auch den Zugriff auf anderen Geräten und im Web. Und keine Sorge um Ihre aktuellen Daten; wenn Sie ein Konto erstellen, wird alles, was Sie haben, automatisch auf Ihr neues Konto übertragen."
+      "de": "Wenn Sie es noch nicht getan haben, erwägen Sie die Erstellung eines neuen Kontos. Dies hilft nicht nur dabei, Ihre Daten im Falle eines Telefon-Upgrades oder einer App-Datenlöschung wiederherzustellen, sondern ermöglicht auch den Zugriff auf anderen Geräten und im Web. Und keine Sorge um Ihre aktuellen Daten; wenn Sie ein Konto erstellen, wird alles, was Sie haben, automatisch auf Ihr neues Konto übertragen.",
+      "pt": "Se ainda não o fez, considere criar uma nova conta. Isso não apenas ajuda na recuperação dos seus dados em caso de atualização do telefone ou exclusão de dados do aplicativo, mas também permite acesso em outros dispositivos e na web.",
+      "hr": "Ako već niste, razmislite o stvaranju novog računa. To ne samo da pomaže u oporavku vaših podataka u slučaju nadogradnje telefona ili brisanja podataka aplikacije, već omogućuje i pristup na drugim uređajima i na webu.",
+      "nl": "Als u dit nog niet heeft gedaan, overweeg dan om een nieuw account aan te maken. Dit helpt niet alleen bij het herstellen van uw gegevens in geval van een telefoonupgrade of app-gegevensverwijdering, maar biedt ook toegang op andere apparaten en het web.",
+      "uk": "Якщо ви ще цього не зробили, подумайте про створення нового облікового запису. Це не тільки допомагає відновити ваші дані у випадку оновлення телефону або видалення даних програми, але й забезпечує доступ на інших пристроях та веб-сайтах.",
+      "ms": "Jika anda belum melakukannya, pertimbangkan untuk membuat akaun baru. Ini bukan sahaja membantu dalam memulihkan data anda dalam kes peningkatan telefon atau penghapusan data aplikasi, tetapi juga membolehkan akses pada peranti lain dan web.",
+      "vi": "Nếu bạn chưa làm, hãy xem xét việc tạo một tài khoản mới. Điều này không chỉ giúp khôi phục dữ liệu của bạn trong trường hợp nâng cấp điện thoại hoặc xóa dữ liệu ứng dụng mà còn cho phép truy cập trên các thiết bị khác và trên web."
     },
     "action": {
       "en": "Register",
@@ -185,7 +269,13 @@
       "fr": "S'inscrire",
       "ru": "Регистрация",
       "it": "Registrati",
-      "de": "Registrieren"
+      "de": "Registrieren",
+      "pt": "Registrar",
+      "hr": "Registrirajte se",
+      "nl": "Registreren",
+      "uk": "Зареєструватися",
+      "ms": "Daftar",
+      "vi": "Đăng ký"
     },
     "actionCustom": "create_account",
     "dismiss": null,
@@ -205,7 +295,13 @@
       "fr": "Fonction de Présence",
       "ru": "Функция Посещаемости",
       "it": "Funzione di Presenza",
-      "de": "Anwesenheitsfunktion"
+      "de": "Anwesenheitsfunktion",
+      "pt": "Recurso de Presença",
+      "hr": "Značajka Prisutnosti",
+      "nl": "Aanwezigheidsfunctie",
+      "uk": "Функція Відвідуваності",
+      "ms": "Ciri Kehadiran",
+      "vi": "Tính năng Điểm danh"
     },
     "message": {
       "en": "Now you can track your attendance in school. Just mark a day or a class as \"Absent\" or \"Late\" and the app will keep track on your behalf. You can also set limits for allowed absence.",
@@ -215,7 +311,13 @@
       "fr": "Vous pouvez désormais suivre votre présence à l'école. Il suffit de marquer un jour ou un cours comme \"Absent\" ou \"En retard\" et l'application tiendra le compte en votre nom. Vous pouvez également définir des limites pour l'absence autorisée.",
       "ru": "Теперь вы можете отслеживать свою посещаемость в школе. Просто отметьте день или урок как \"Отсутствующий\" или \"Опоздавший\", и приложение будет вести учет за вас. Вы также можете установить пределы для разрешенного отсутствия.",
       "it": "Ora puoi monitorare la tua presenza a scuola. Basta segnare un giorno o una lezione come \"Assente\" o \"In ritardo\" e l'app terrà traccia per tuo conto. Puoi anche impostare limiti per l'assenza consentita.",
-      "de": "Jetzt können Sie Ihre Anwesenheit in der Schule verfolgen. Markieren Sie einfach einen Tag oder eine Klasse als \"Abwesend\" oder \"Verspätet\" und die App wird für Sie Buch führen. Sie können auch Grenzen für erlaubte Abwesenheiten festlegen."
+      "de": "Jetzt können Sie Ihre Anwesenheit in der Schule verfolgen. Markieren Sie einfach einen Tag oder eine Klasse als \"Abwesend\" oder \"Verspätet\" und die App wird für Sie Buch führen. Sie können auch Grenzen für erlaubte Abwesenheiten festlegen.",
+      "pt": "Agora você pode acompanhar sua frequência na escola. Basta marcar um dia ou uma aula como \"Ausente\" ou \"Atrasado\" e o aplicativo fará o acompanhamento em seu nome.",
+      "hr": "Sada možete pratiti svoju prisutnost u školi. Samo označite dan ili sat kao \"Odsutan\" ili \"Kasni\" i aplikacija će pratiti umjesto vas.",
+      "nl": "Nu kunt u uw aanwezigheid op school bijhouden. Markeer gewoon een dag of een les als \"Afwezig\" of \"Laat\" en de app houdt dit voor u bij.",
+      "uk": "Тепер ви можете відстежувати свою відвідуваність у школі. Просто позначте день або заняття як \"Відсутній\" або \"Спізнений\", і додаток веде облік за вас.",
+      "ms": "Sekarang anda boleh mengesan kehadiran anda di sekolah. Cukup tandai sehari atau satu kelas sebagai \"Tidak Hadir\" atau \"Lewat\" dan aplikasi akan mengesan bagi pihak anda.",
+      "vi": "Giờ đây, bạn có thể theo dõi sự tham dự của mình tại trường. Chỉ cần đánh dấu một ngày hoặc một lớp học là \"Vắng mặt\" hoặc \"Muộn\" và ứng dụng sẽ theo dõi thay bạn."
     },
     "action": null,
     "dismiss": null,
