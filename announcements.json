@@ -64,7 +64,7 @@
       "en": "Participate",
       "es": "Unirse",
       "ar": "حسناً",
-      "tr": "Katılın",
+      "tr": "Katıl",
       "fr": "Rejoindre",
       "ru": "Участвовать",
       "it": "Partecipa",
@@ -152,7 +152,7 @@
     "imageUrl": "https://raw.githubusercontent.com/swazer-lab/schoolplanner/main/announcement_images/web_app.webp",
     "actionUrl": "https://app.schoolplanner.me",
     "endDate": null,
-    "runTimes": 14,
+    "runTimes": 28,
     "versionCode": null
   },
   {
