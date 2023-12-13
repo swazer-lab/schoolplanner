@@ -78,6 +78,45 @@
     "versionCode": null
   },
   {
+    "id": "new_avatars",
+    "title": {
+      "en": "Introducing Avatars",
+      "es": "Presentando Avatares",
+      "ar": "نقدم لكم ميزة الصور الرمزية",
+      "tr": "Avatarları Tanıtıyoruz",
+      "fr": "Introduction des Avatars",
+      "ru": "Представляем Аватары",
+      "it": "Introduzione degli Avatar",
+      "de": "Vorstellung von Avataren"
+    },
+    "message": {
+      "en": "Explore the new awesome avatar collection! Choose a unique avatar for yourself or for your teachers. Try it now by going to your profile or teachers screen.",
+      "es": "¡Explora la increíble nueva colección de avatares! Elige un avatar único para ti o para tus profesores. Pruébalo ahora yendo a tu perfil o a la pantalla de profesores.",
+      "ar": "اكتشف مجموعة الصور الرمزية الجديدة والرائعة! اختر صورة رمزية فريدة لك أو لمعلميك. جربه الآن عن طريق الانتقال إلى ملفك الشخصي أو شاشة المعلمين.",
+      "tr": "Yeni ve harika avatar koleksiyonunu keşfedin! Kendiniz veya öğretmenleriniz için benzersiz bir avatar seçin. Şimdi profilinize veya öğretmenler ekranına giderek deneyin.",
+      "fr": "Découvrez la nouvelle collection d'avatars géniaux! Choisissez un avatar unique pour vous ou pour vos professeurs. Essayez-le maintenant en allant sur votre profil ou sur l'écran des enseignants.",
+      "ru": "Исследуйте новую потрясающую коллекцию аватаров! Выберите уникальный аватар для себя или для ваших учителей. Попробуйте сейчас, перейдя в свой профиль или на экран учителей.",
+      "it": "Scopri la nuova fantastica collezione di avatar! Scegli un avatar unico per te o per i tuoi insegnanti. Provalo ora andando sul tuo profilo o sulla schermata degli insegnanti.",
+      "de": "Entdecken Sie die neue beeindruckende Avatar-Sammlung! Wählen Sie einen einzigartigen Avatar für sich selbst oder für Ihre Lehrer aus. Probieren Sie es jetzt aus, indem Sie zu Ihrem Profil oder zum Lehrerbildschirm gehen."
+    },
+    "action": null,
+    "dismiss": {
+      "en": "Got it",
+      "es": "Entendido",
+      "ar": "حسناً",
+      "tr": "Anladım",
+      "fr": "Compris",
+      "ru": "Понял",
+      "it": "Capito",
+      "de": "Verstanden"
+    },
+    "imageUrl": "https://raw.githubusercontent.com/swazer-lab/schoolplanner/main/announcement_images/new_avatars.webp",
+    "actionUrl": null,
+    "endDate": 19682,
+    "runTimes": 72,
+    "versionCode": null
+  },
+  {
     "id": "web_app",
     "title": {
       "en": "School Planner for Web",
